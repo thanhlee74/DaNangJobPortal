@@ -13,4 +13,6 @@
     -install jdk 8 or over ,nodejs, mysql in to your computer
     -install vs code then add folder in to vs code 
     -install xampp ,then start apache and mysql ,then create database has name same as backend\src\main\resources\application.properties 
-    -in vs code ,open file backend\src\main\java\com\work\backend\BackendApplication.java and click run 
+    -in vs code ,open file backend\src\main\java\com\work\backend\BackendApplication.java and click run to run backend java
+    -finally open terminal in frontend folder, enter 'npm start' to run frontend reactjs
+# Good bye and good luck!!!
